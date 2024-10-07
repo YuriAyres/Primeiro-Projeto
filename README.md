@@ -1,1 +1,1 @@
-Projeto que utiliza uma api.
+Projeto que de uma api.
