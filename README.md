@@ -1,1 +1,1 @@
-Projeto que de uma api.
+Projeto de uma api.
